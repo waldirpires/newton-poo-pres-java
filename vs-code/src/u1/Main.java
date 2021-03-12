@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         var bmw = new Carro();
 
-        bmw.marca = "BMW";
+        //bmw.marca = "BMW";
 
         // acelerar
         bmw.acelerar();
