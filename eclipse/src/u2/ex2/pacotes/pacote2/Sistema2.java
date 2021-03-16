@@ -12,6 +12,8 @@ public class Sistema2 {
         usuario.valor = 10.5f;
 
         usuario.nome = "josé";
+        
+        usuario.getNome(); // encapsulamento
 
     }
 

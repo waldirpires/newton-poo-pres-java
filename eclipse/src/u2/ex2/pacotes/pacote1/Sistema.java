@@ -9,7 +9,12 @@ public class Sistema {
         usuario.id = 22;
         
         usuario.nome = "josé";
-                
+        
+        // 
+        usuario.valor = 10.2f;
+        
+        usuario.getValor();
+        
     }
 
 }
